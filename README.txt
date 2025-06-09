@@ -15,6 +15,14 @@ class IndexController extends Controller
     }
 }
 
+
+
+
+
+
+
+
+
 <?php
 
 use Illuminate\Support\Facades\Route;
